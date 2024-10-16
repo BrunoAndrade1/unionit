@@ -81,12 +81,12 @@ text-align: center;
 """
 
 
-@st.dialog("Aviso")
 def aviso(texto, tipo):
     if tipo == "sucesso":
         st.success('Esta é uma mensagem de sucesso!', icon="✅")
     elif tipo == "erro":
         st.warning(texto, icon="⚠️")
+
 
 
 def verifica_dados():
