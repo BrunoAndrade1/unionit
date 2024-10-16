@@ -1,0 +1,74 @@
+CONTA,DESCRI«?«üO,VALOR,DEMONSTRATIVO,ANO,MES,PERIODO,CNPJ,EMPRESA
+1,Ativo,2847217.52,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,28.700.483/0001-56,GFEK
+1.01,Ativo Circulante,2482972.92,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+1.01.01,Caixa e Equivalente de Caixa,2159462.45,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+1.01.02,Aplica«ı«úo Financeira,2155634.15,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+1.01.04,Estoque,83824.62,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+1.02,Ativo N«úo Circulante,66000.0,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+1.02.01,Ativo Realiz«≠vel a Long Prazo,66000.0,Balan«ıo Patrimonial Ativo,2023.0,12.0,ANUAL,,
+2,Passivo,5101376.13,Balan«ıo Patrimonial Passivo,2023.0,12.0,ANUAL,,
+2.01,Passivo Circulante,-315426.74,Balan«ıo Patrimonial Passivo,2023.0,12.0,ANUAL,,
+2.01.04,Empr«∏stimo a Curto Prazo,-315426.74,Balan«ıo Patrimonial Passivo,2023.0,12.0,ANUAL,,
+2.02,Passivo N«úo Circulante,0.0,Balan«ıo Patrimonial Passivo,2023.0,12.0,ANUAL,,
+2.03,Patrim«Ônio L«quido,5416802.87,Balan«ıo Patrimonial Passivo,2023.0,12.0,ANUAL,,
+3.02,Custos,4085454.78,Demonstra«ı«úo do Resultado,2023.0,12.0,ANUAL,,
+6.01.01.02,Deprecia«ı«úo e Amortiza«ı«úo,37073.73,Demonstra«ı«úo do Fluxo de Caixa,2023.0,12.0,ANUAL,,
+3.01,Receita L«quida,-1438418.76,Demonstra«ı«úo do Resultado,2023.0,12.0,ANUAL,,
+3.03,Lucro Bruto,-2164473.96,Demonstra«ı«úo do Resultado,2023.0,12.0,ANUAL,,
+3.11,Lucro/Preju«zo Consolidado do Per«odo,-2164473.96,Demonstra«ı«úo do Resultado,2023.0,12.0,ANUAL,,
+1,Ativo,2847217.52,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.01,Ativo Circulante,2482972.92,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.01.01,Caixa e Equivalente de Caixa,2159462.45,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.01.02,Aplica«ı«úo Financeira,2155634.15,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.01.04,Estoque,83824.62,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.02,Ativo N«úo Circulante,66000.0,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+1.02.01,Ativo Realiz«≠vel a Long Prazo,66000.0,Balan«ıo Patrimonial Ativo,2022.0,12.0,ANUAL,,
+2,Passivo,5101376.13,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+2.01,Passivo Circulante,-315426.74,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+2.01.04,Empr«∏stimo a Curto Prazo,-315426.74,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+2.02,Passivo N«úo Circulante,0.0,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+2.02.01,Empr«∏stimo a longo Prazo,0.0,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+2.03,Patrim«Ônio L«quido,5416802.87,Balan«ıo Patrimonial Passivo,2022.0,12.0,ANUAL,,
+3.11,Lucro/Preju«zo Consolidado do Per«odo,6446802.87,Demonstra«ı«úo do Resultado,2022.0,12.0,ANUAL,,
+3.02,Custos,4085454.78,Demonstra«ı«úo do Resultado,2022.0,12.0,ANUAL,,
+6.01.01.02,Deprecia«ı«úo e Amortiza«ı«úo,37073.73,Demonstra«ı«úo do Fluxo de Caixa,2022.0,12.0,ANUAL,,
+3.01,Receita L«quida,-1438418.76,Demonstra«ı«úo do Resultado,2022.0,12.0,ANUAL,,
+3.03,Lucro Bruto,-2164473.96,Demonstra«ı«úo do Resultado,2022.0,12.0,ANUAL,,
+1,Ativo,2847217.52,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+1.01,Ativo Circulante,2482972.92,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+2.01.04,Empr«∏stimo a Curto Prazo,2482972.92,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+2.02,Passivo N«úo Circulante,2482972.92,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+1.01.01,Caixa e Equivalente de Caixa,2159462.45,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+2.01,Passivo Circulante,2159462.45,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+2.03,Patrim«Ônio L«quido,2159462.45,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+1.01.02,Aplica«ı«úo Financeira,3828.3,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+3.01,Receita L«quida,3828.3,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+2.02.01,Empr«∏stimo a longo Prazo,2155634.15,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+3.08,Imposto de Renda e Contribui«ı«úo Social Sobre o Lucro,2155634.15,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+3.02,Custos,0.0,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+3.11,Lucro/Preju«zo Consolidado do Per«odo,0.0,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+3.03,Lucro Bruto,39065.1,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+3.05,Resultado Antes dos Tributos,39065.1,Demonstra«ı«úo do Resultado,,,ANUAL,55628814000170.0,
+1.01.04,Estoque,83824.62,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+1.02,Ativo N«úo Circulante,66000.0,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+1.02.01,Ativo Realiz«≠vel a Long Prazo,5101376.13,Balan«ıo Patrimonial Ativo,,,ANUAL,55628814000170.0,
+2,Passivo,-315426.74,Balan«ıo Patrimonial Passivo,,,ANUAL,55628814000170.0,
+1,Ativo,2847217.52,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+1.01,Ativo Circulante,2482972.92,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+2.01.04,Empr«∏stimo a Curto Prazo,2482972.92,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
+2.02,Passivo N«úo Circulante,2482972.92,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
+1.01.01,Caixa e Equivalente de Caixa,2159462.45,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+2.01,Passivo Circulante,2159462.45,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
+2.03,Patrim«Ônio L«quido,2159462.45,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
+1.01.02,Aplica«ı«úo Financeira,3828.3,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+3.01,Receita L«quida,3828.3,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+2.02.01,Empr«∏stimo a longo Prazo,2155634.15,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
+3.08,Imposto de Renda e Contribui«ı«úo Social Sobre o Lucro,2155634.15,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+3.02,Custos,0.0,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+3.11,Lucro/Preju«zo Consolidado do Per«odo,0.0,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+3.03,Lucro Bruto,39065.1,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+3.05,Resultado Antes dos Tributos,39065.1,Demonstra«ı«úo do Resultado,2022,12,ANUAL,55628814000170,xyz
+1.01.04,Estoque,83824.62,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+1.02,Ativo N«úo Circulante,66000.0,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+1.02.01,Ativo Realiz«≠vel a Long Prazo,5101376.13,Balan«ıo Patrimonial Ativo,2022,12,ANUAL,55628814000170,xyz
+2,Passivo,-315426.74,Balan«ıo Patrimonial Passivo,2022,12,ANUAL,55628814000170,xyz
